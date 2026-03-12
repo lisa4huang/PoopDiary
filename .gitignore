@@ -1,0 +1,10 @@
+# Xcode
+*.xcuserstate
+xcuserdata/
+build/
+DerivedData/
+.DS_Store
+*.swp
+*.lock
+.build/
+.swiftpm/
