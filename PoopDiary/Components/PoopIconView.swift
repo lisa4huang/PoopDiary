@@ -18,6 +18,7 @@ func bristolIconImage(_ name: String) -> Image {
 }
 
 /// Stool icon with image caching.
+struct PoopIconView: View {
     let bristolType: BristolType
     var size: CGFloat = 28
 
